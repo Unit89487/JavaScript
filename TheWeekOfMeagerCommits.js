@@ -14,10 +14,10 @@ averageOfThree = function (quantityOne, quantityTwo, quantityThree) {
 	return (quantityOne + quantityTwo + quantityThree) / 3
 }
 
-//Function 3
-//averageOfFive = function (integerOne, integerTwo, integerThree, integerFour, integerFive) {
-//	return (integerOne + integerTwo + integerThree + integerFour + integerFive) / 5
-//}
+Function 3
+averageOfFive = function (integerOne, integerTwo, integerThree, integerFour, integerFive) {
+	return (integerOne + integerTwo + integerThree + integerFour + integerFive) / 5
+}
 
 //Function 4
 //blah = function (x) {

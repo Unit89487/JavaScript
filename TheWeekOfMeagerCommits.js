@@ -10,9 +10,9 @@ cube = function (quantity) {
 }
 
 //Function 2 
-//averageOfThree = function (quantityOne, quantityTwo, quantityThree) {
-//	return (quantityOne + quantityTwo + quantityThree) / 3
-//}
+averageOfThree = function (quantityOne, quantityTwo, quantityThree) {
+	return (quantityOne + quantityTwo + quantityThree) / 3
+}
 
 //Function 3
 //averageOfFive = function (integerOne, integerTwo, integerThree, integerFour, integerFive) {

@@ -20,9 +20,9 @@ averageOfFive = function (integerOne, integerTwo, integerThree, integerFour, int
 }
 
 //Function 4
-//blah = function (x) {
-//	return x + (x*10)
-//}
+blah = function (x) {
+	return x + (x*10)
+}
 
 //Function 5. Don't know enough js to do this but... for fun
 //continuedFraction = function (T) {

@@ -30,9 +30,9 @@ continuedFraction = function (T) {
 }
 
 //Function 6
-//quadratic = function (Z) {
-//	return Z^2 + 5*Z + 3
-//}
+quadratic = function (Z) {
+	return Z^2 + 5*Z + 3
+}
 
 
 //Function 7

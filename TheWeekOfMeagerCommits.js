@@ -25,9 +25,9 @@ blah = function (x) {
 }
 
 //Function 5. Don't know enough js to do this but... for fun
-//continuedFraction = function (T) {
-//	return T + (1/(1/(1/(1/T))))
-//}
+continuedFraction = function (T) {
+	return T + (1/(1/(1/(1/T))))
+}
 
 //Function 6
 //quadratic = function (Z) {

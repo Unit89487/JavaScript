@@ -36,9 +36,9 @@ quadratic = function (Z) {
 
 
 //Function 7
-//cubic = function (S) {
-//	return 2*(S^3) + 4*(S^2) + 6*S + 8
-//}
+cubic = function (S) {
+	return 2*(S^3) + 4*(S^2) + 6*S + 8
+}
 
 //Function 8
 //One of the functions on my calculus test. 

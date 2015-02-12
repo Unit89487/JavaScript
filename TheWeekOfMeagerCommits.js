@@ -48,3 +48,7 @@ blahblah = function (W) {
 
 //Function 8
 //One of the functions on my calculus test. 
+
+gpaDestroyer = function (WHY) {
+	return (WHY^4 + 2WHY^3 + 3*WHY + 4)/sqrt(WHY^5 + 5)   //with some nice natural logs thrown in there for good measure
+}
